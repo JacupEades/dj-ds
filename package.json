@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/abnormal-wine-uxxfc.blank-litfxmjy",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve hjXsOSycxFPuwTgxrLWO --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
